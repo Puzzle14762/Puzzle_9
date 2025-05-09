@@ -1,4 +1,4 @@
-INTRUÇÕES DE USO
+INSTRUÇÕES DE USO
 
 1-execute o arquivo puzzle_9.exe
 
