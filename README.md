@@ -15,4 +15,6 @@ INSTRUÇÕES DE USO
 
 aviso esse código usa 100% do processador e 50% da memoria para acelerar o processo de busca.
 
+Testa 8 indices aleatorios.
+
 instale o golang - https://go.dev/doc/install
